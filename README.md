@@ -4,9 +4,9 @@
 
 **Project Demo Link** - https://drive.google.com/file/d/17e1ANjPG8mBHMN7Ro9OXaOPZ3YfWHeg-/view?usp=sharing
 
-**Link to Repo** - 
+**Link to Repository** - 
 
-**Working Project Link** - https://icy-cliff-0d3dfca10.1.azurestaticapps.net/
+**Working Project Link** - https://yashashrigawande.github.io/OceanofBooks/
 
 ## Tech Stack Used 💻
 
