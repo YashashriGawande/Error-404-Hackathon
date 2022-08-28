@@ -2,10 +2,6 @@
 
 # ✨ Ocean of Books Website  ✨
 
-**Link to Repository** - https://github.com/YashashriGawande/OceanofBooks.git
-
-**Working Project Link** - https://yashashrigawande.github.io/OceanofBooks/
-
 ## Tech Stack Used 💻
 
 - HTML
